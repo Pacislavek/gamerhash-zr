@@ -1,2 +1,2 @@
 # gamerhash-zr
-Zadanie rekrutacyjne dla gamerhash.com
+Repozytorium zawiera zadanie rekrutacyjne dla gamerhash.com
