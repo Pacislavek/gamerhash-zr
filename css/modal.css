@@ -1,0 +1,69 @@
+/* MODAL LOGIN PROMPT */
+
+.modal-content {
+  padding: 40px 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px #171A1F80;
+}
+
+.modal-body h2 {
+  position: absolute;
+  width: 100%;
+  margin-top: -110px;
+  text-align: center;
+  color: #ffffff;
+  padding-right: 34px;
+}
+
+.basic-input {
+  width: 100%;
+  padding: 10px 17px;
+  border: 1px solid #C1C1C1;
+  border-radius: 3px;
+}
+
+.basic-input:hover {
+  border: 1px solid #171A1F;
+}
+
+.basic-input:focus {
+  border: 1px solid #C1C1C1;
+  outline: 0;
+}
+
+.modal-body input[type=password] {
+  margin-top: 10px;
+}
+
+.modal-body button {
+  margin-top: 20px;
+  width: 100%;
+  height: 48px;
+  background: #2AD46F;
+  box-shadow: 5px 5px 10px #11AE5166;
+  border-radius: 3px;
+  outline: 0;
+  border: none;
+  transition: all 0.3s ease-out;
+  font-size: 18px;
+  font-weight: 600;
+  color: #F9F9F9;
+}
+
+.modal-body button:hover {
+  background: #20C763;
+  box-shadow: 3px 3px 10px #11AE5199;
+}
+
+.modal-body p:first-of-type {
+  margin-top: 20px;
+}
+
+.modal-body p {
+  text-align: center;
+}
+
+.modal-body p a {
+  color: var(--text-bold);
+  font-weight: 600;
+}
